@@ -1,0 +1,24 @@
+.backcolor,.textcolor
+{
+    background-color: #0A1CCA;
+}
+
+
+.nav-link:hover{
+    color:aqua;
+    border-bottom: 1px solid white;
+}
+.btn:hover
+{
+    color: #0A1CCA !important;
+}
+.card-title{
+    height: 54px;
+    overflow: hidden;
+    font-size: 15px;
+}
+.card-text{
+    font-size: 14px;
+    height: 120px;
+    overflow: hidden;
+}
